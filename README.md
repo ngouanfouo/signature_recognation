@@ -2,7 +2,7 @@
 
 #### Language and Libraries
 
-## Autho: Tiayo Durel 
+### Author : Tiayo Durel 
 
 <p>
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
